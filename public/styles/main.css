@@ -1,0 +1,194 @@
+body {
+	font-family: "Anonymous Pro", monospace;
+}
+
+h1, h2, h3, h4 {
+	font-family: "Poppins", sans-serif;
+}
+
+#invite-player-button {
+	font-size: 70%;
+	margin-left: 5px;
+}
+
+#waiting-spinner {
+	margin-top: 15px;
+	font-size: 200%;
+}
+
+#twitter-login {
+	margin-top: 15px;
+	font-size: 120%;
+	font-weight: bold;
+}
+
+#success-alert {
+	margin: 0px 270px;
+	font-size: 130%;
+}
+
+#welcome-message {
+	font-size: 200%;
+}
+
+#home-login {
+	font-size: 75%;
+}
+
+#home-title {
+	font-size: 1500%;
+}
+
+#join-error-alert {
+	margin: 0px 130px;
+}
+
+#current-game {
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+#create-join {
+	text-align: center;
+}
+#create-join h1 {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+#time-remaining {
+	font-size: 350%;
+}
+
+#accounts-wrapper {
+	margin-top: 10px;
+	font-size: 220%
+}
+
+#ranking-title {
+	margin-bottom: 40px;
+}
+
+#timer {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+#create-game {
+	margin-top: 30px;
+}
+
+#current-position {
+	font-size: 500%;
+}
+
+#current-wpm-number {
+	font-size: 400%;
+}
+
+.other-position {
+	font-size: 300%;
+}
+
+.other-wpm-number {
+	font-size: 200%;
+}
+
+.other-username {
+	margin-top: 23px;
+	font-size: 150%;
+}
+
+.other-current {
+	margin-top: 30px;
+	font-size: 110%;
+}
+
+#my-text {
+	margin-top: 10px;
+}
+
+.invited-player {
+	font-size: 110%;
+	margin: 5px 5px;
+}
+
+.input-playing {
+	margin-top: 20px;
+}
+
+.input-waiting {
+	margin-top: 50px;
+}
+
+.simulated-padding {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 40px;
+}
+
+.done-char {
+	color: DarkGreen;
+	font-weight: bold;
+}
+.current-char {
+	background-color: DarkSlateGray;
+	color: FloralWhite;
+	padding: 3px;
+	font-weight: bold;
+}
+
+.is-first,
+.is-last {
+	margin-top: 15px;
+	font-size: 200%;
+	text-align: center;
+}
+
+.is-first {
+	color: green;
+}
+
+.is-last {
+	color: red;
+}
+
+.card-header,
+.card-footer {
+	height: 100px;
+}
+
+.card-body {
+	height: 150px;
+}
+
+.header-message {
+	font-size: 160%;
+	margin-top: 30px;
+}
+
+.bigger-header-message {
+	font-size: 150%;
+}
+
+.page-button {
+	color: blue;
+}
+
+.active-page {
+	background-color: Lavender;
+}
+
+.alert-close {
+	color: black;
+	opacity: 1;
+}
+
+.arrow {
+	font-size: 150%;
+}
+
+.invitation-alert {
+	margin: 15px 100px;
+}
