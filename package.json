@@ -9,7 +9,7 @@
     "classnames": "^2.2.5",
     "meteor-node-stubs": "^0.3.2",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react-dom": "^16.2.1",
     "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
